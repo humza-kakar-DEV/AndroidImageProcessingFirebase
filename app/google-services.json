@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "598913579922",
+    "firebase_url": "https://lolfirebaseproject-56fa3.firebaseio.com",
+    "project_id": "lolfirebaseproject-56fa3",
+    "storage_bucket": "lolfirebaseproject-56fa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598913579922:android:30e2fa10f9a451120f1f4b",
+        "android_client_info": {
+          "package_name": "com.example.firebaseimagelablingproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598913579922-77puckmmp1no27cqcuh547soles5r0mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKimRlA3fZwXI7jj30k7TDUacws6NUPbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598913579922-77puckmmp1no27cqcuh547soles5r0mk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598913579922:android:eda5bfcd1d7c5d710f1f4b",
+        "android_client_info": {
+          "package_name": "com.humza.lol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598913579922-ac9j0bppdtjkmr9mmlinertfqfqgpmjm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.humza.lol",
+            "certificate_hash": "bd82a2abc231a9ec929d71f75ce0466eb048d986"
+          }
+        },
+        {
+          "client_id": "598913579922-77puckmmp1no27cqcuh547soles5r0mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKimRlA3fZwXI7jj30k7TDUacws6NUPbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598913579922-77puckmmp1no27cqcuh547soles5r0mk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
