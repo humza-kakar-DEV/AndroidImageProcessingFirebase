@@ -39,6 +39,7 @@ class MainActivity : AppCompatActivity() {
 
     }
 
+//!    catch camera and gallery intent data here
     override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
         super.onActivityResult(requestCode, resultCode, data)
 
