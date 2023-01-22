@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/FirebaseImageLablingProject/app/src/main/res/drawable-v24/outline_background.xml" value="0.188" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/FirebaseImageLablingProject/app/src/main/res/drawable-v24/rounded_cornor_background.xml" value="0.188" />
         <entry key="..\:/Users/lenovo/AndroidStudioProjects/FirebaseImageLablingProject/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/FirebaseImageLablingProject/app/src/main/res/layout/activity_splash_screen.xml" value="0.18072916666666666" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/FirebaseImageLablingProject/app/src/main/res/layout/image_processing_result_recycler_view.xml" value="0.25" />
       </map>
     </option>
   </component>
